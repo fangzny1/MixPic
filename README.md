@@ -1,7 +1,7 @@
-#MixPic是什么
+# MixPic是什么
 MixPic是一个帮助你快速把一个文件夹下的多个分割横屏图片根据文件名顺序快速横向拼接的软件，对于x上最新的大图模式有很好的帮助（当你想把四个分开的图片拼在一起）
 
-#MixPic使用方法
+# MixPic使用方法
 参数使用可以输入`cargo run --help`或者`cargo run --h`查看参数用法
 
 例如`cargo run -- I:\spaxie -o output.png -p I:\spaxie`
