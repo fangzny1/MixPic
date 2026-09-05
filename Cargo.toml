@@ -1,0 +1,10 @@
+[package]
+name = "MixPic"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+# 命令行参数解析
+clap = { version = "4", features = ["derive"] }
+image="0.25"
